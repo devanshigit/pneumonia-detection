@@ -76,7 +76,9 @@ To use this system:
 
 ## 6. Results <a name="results"></a>
 
-The hybrid model demonstrated high classification performance in differentiating between normal and pneumonia-infected chest X-rays. Specific performance metrics (Accuracy, Precision, Recall, F1-Score, AUC) can be found in the Colab notebook and the project report.
+The hybrid model demonstrated high classification performance in differentiating between normal and pneumonia-infected chest X-rays. Specific performance metrics (Accuracy, Precision, Recall, F1-Score, AUC) can be found in the Colab notebook and the project report. 
+
+Click on the image video to view the working of the model in Gradio interface.
 
 [![Results](demo-thumbnail.png)](https://drive.google.com/file/d/1BNZs2zvqSXjgBuEeLOAWwUMJ8LY59M7D/view?usp=sharing)
 
